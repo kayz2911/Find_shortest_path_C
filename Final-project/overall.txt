@@ -1,0 +1,26 @@
+1) Topic: Hệ thống giao hàng thông minh
+2) Chức năng: 
+	1. Sắp xếp và trả lại lộ trình hợp lý nhất kèm theo tổng độ dài quãng đường, cách đi chi tiết nhập và giao hàng
+	2. Kiểm tra tình trạng đơn hàng
+3) Thực hiện:
+Code:
+- Libraries:
+ + Init data into files:
+   ~ Tạo đơn hàng:
+ 	. Format mã đơn hàng (AppTransactionId): {PlatformCode}_{ProvinceCode}{DistrictCode}{WardCode}{StreetCode}_{TransactionId}
+		> PlatformCode: Lazada(01), Tiki(02), Shopee(03)
+		> ProvinceCode, DistrictCode, WardCode: 
+			reference: https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ 
+		> TransactionId(unique): random with numbers, characters, specific characters.
+ 	. Lưu vào file theo dạng: 
+		Id CustomerName CustomerEmail CustomerPhone AppTransactionId
+   ~ Tạo vị trí các điểm giao hàng theo format {ProvinceCode}{DistrictCode}{WardCode}
+ + Read data from files and sorting(merge sort) and write into file
+ + Create graph (using jrb lib)
+ + Short path (Dijkstra algorithm)
+- Functions:
+ + Input AppTransactionId -> TransactionStatus
+ + Input PlatformCode -> show đường đi giao hàng của các đơn hàng theo paging(ngày, tháng, phân trang, độ ưu tiên), tổng số đơn sẽ được giao trong ngày
+ + Input ProvinceCode, DistrictCode, WardCode -> show đường đi giao hàng của các đơn hàng theo paging(ngày, tháng, phân trang, độ ưu tiên, PlatformCode), tổng số đơn sẽ được giao trong ngày
+
+Slides:

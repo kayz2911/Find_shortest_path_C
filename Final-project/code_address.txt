@@ -1,0 +1,584 @@
+00001:Phường Phúc Xá, Quận Ba Đình, Thành phố Hà Nội
+00004:Phường Trúc Bạch, Quận Ba Đình, Thành phố Hà Nội
+00006:Phường Vĩnh Phúc, Quận Ba Đình, Thành phố Hà Nội
+00007:Phường Cống Vị, Quận Ba Đình, Thành phố Hà Nội
+00008:Phường Liễu Giai, Quận Ba Đình, Thành phố Hà Nội
+00010:Phường Nguyễn Trung Trực, Quận Ba Đình, Thành phố Hà Nội
+00013:Phường Quán Thánh, Quận Ba Đình, Thành phố Hà Nội
+00016:Phường Ngọc Hà, Quận Ba Đình, Thành phố Hà Nội
+00019:Phường Điện Biên, Quận Ba Đình, Thành phố Hà Nội
+00022:Phường Đội Cấn, Quận Ba Đình, Thành phố Hà Nội
+00025:Phường Ngọc Khánh, Quận Ba Đình, Thành phố Hà Nội
+00028:Phường Kim Mã, Quận Ba Đình, Thành phố Hà Nội
+00031:Phường Giảng Võ, Quận Ba Đình, Thành phố Hà Nội
+00034:Phường Thành Công, Quận Ba Đình, Thành phố Hà Nội
+00037:Phường Phúc Tân, Quận Hoàn Kiếm, Thành phố Hà Nội
+00040:Phường Đồng Xuân, Quận Hoàn Kiếm, Thành phố Hà Nội
+00043:Phường Hàng Mã, Quận Hoàn Kiếm, Thành phố Hà Nội
+00046:Phường Hàng Buồm, Quận Hoàn Kiếm, Thành phố Hà Nội
+00049:Phường Hàng Đào, Quận Hoàn Kiếm, Thành phố Hà Nội
+00052:Phường Hàng Bồ, Quận Hoàn Kiếm, Thành phố Hà Nội
+00055:Phường Cửa Đông, Quận Hoàn Kiếm, Thành phố Hà Nội
+00058:Phường Lý Thái Tổ, Quận Hoàn Kiếm, Thành phố Hà Nội
+00061:Phường Hàng Bạc, Quận Hoàn Kiếm, Thành phố Hà Nội
+00064:Phường Hàng Gai, Quận Hoàn Kiếm, Thành phố Hà Nội
+00067:Phường Chương Dương, Quận Hoàn Kiếm, Thành phố Hà Nội
+00070:Phường Hàng Trống, Quận Hoàn Kiếm, Thành phố Hà Nội
+00073:Phường Cửa Nam, Quận Hoàn Kiếm, Thành phố Hà Nội
+00076:Phường Hàng Bông, Quận Hoàn Kiếm, Thành phố Hà Nội
+00079:Phường Tràng Tiền, Quận Hoàn Kiếm, Thành phố Hà Nội
+00082:Phường Trần Hưng Đạo, Quận Hoàn Kiếm, Thành phố Hà Nội
+00085:Phường Phan Chu Trinh, Quận Hoàn Kiếm, Thành phố Hà Nội
+00088:Phường Hàng Bài, Quận Hoàn Kiếm, Thành phố Hà Nội
+00091:Phường Phú Thượng, Quận Tây Hồ, Thành phố Hà Nội
+00094:Phường Nhật Tân, Quận Tây Hồ, Thành phố Hà Nội
+00097:Phường Tứ Liên, Quận Tây Hồ, Thành phố Hà Nội
+00100:Phường Quảng An, Quận Tây Hồ, Thành phố Hà Nội
+00103:Phường Xuân La, Quận Tây Hồ, Thành phố Hà Nội
+00106:Phường Yên Phụ, Quận Tây Hồ, Thành phố Hà Nội
+00109:Phường Bưởi, Quận Tây Hồ, Thành phố Hà Nội
+00112:Phường Thụy Khuê, Quận Tây Hồ, Thành phố Hà Nội
+00115:Phường Thượng Thanh, Quận Long Biên, Thành phố Hà Nội
+00118:Phường Ngọc Thụy, Quận Long Biên, Thành phố Hà Nội
+00121:Phường Giang Biên, Quận Long Biên, Thành phố Hà Nội
+00124:Phường Đức Giang, Quận Long Biên, Thành phố Hà Nội
+00127:Phường Việt Hưng, Quận Long Biên, Thành phố Hà Nội
+00130:Phường Gia Thụy, Quận Long Biên, Thành phố Hà Nội
+00133:Phường Ngọc Lâm, Quận Long Biên, Thành phố Hà Nội
+00136:Phường Phúc Lợi, Quận Long Biên, Thành phố Hà Nội
+00139:Phường Bồ Đề, Quận Long Biên, Thành phố Hà Nội
+00142:Phường Sài Đồng, Quận Long Biên, Thành phố Hà Nội
+00145:Phường Long Biên, Quận Long Biên, Thành phố Hà Nội
+00148:Phường Thạch Bàn, Quận Long Biên, Thành phố Hà Nội
+00151:Phường Phúc Đồng, Quận Long Biên, Thành phố Hà Nội
+00154:Phường Cự Khối, Quận Long Biên, Thành phố Hà Nội
+00157:Phường Nghĩa Đô, Quận Cầu Giấy, Thành phố Hà Nội
+00160:Phường Nghĩa Tân, Quận Cầu Giấy, Thành phố Hà Nội
+00163:Phường Mai Dịch, Quận Cầu Giấy, Thành phố Hà Nội
+00166:Phường Dịch Vọng, Quận Cầu Giấy, Thành phố Hà Nội
+00167:Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội
+00169:Phường Quan Hoa, Quận Cầu Giấy, Thành phố Hà Nội
+00172:Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội
+00175:Phường Trung Hoà, Quận Cầu Giấy, Thành phố Hà Nội
+00178:Phường Cát Linh, Quận Đống Đa, Thành phố Hà Nội
+00181:Phường Văn Miếu, Quận Đống Đa, Thành phố Hà Nội
+00184:Phường Quốc Tử Giám, Quận Đống Đa, Thành phố Hà Nội
+00187:Phường Láng Thượng, Quận Đống Đa, Thành phố Hà Nội
+00190:Phường Ô Chợ Dừa, Quận Đống Đa, Thành phố Hà Nội
+00193:Phường Văn Chương, Quận Đống Đa, Thành phố Hà Nội
+00196:Phường Hàng Bột, Quận Đống Đa, Thành phố Hà Nội
+00199:Phường Láng Hạ, Quận Đống Đa, Thành phố Hà Nội
+00202:Phường Khâm Thiên, Quận Đống Đa, Thành phố Hà Nội
+00205:Phường Thổ Quan, Quận Đống Đa, Thành phố Hà Nội
+00208:Phường Nam Đồng, Quận Đống Đa, Thành phố Hà Nội
+00211:Phường Trung Phụng, Quận Đống Đa, Thành phố Hà Nội
+00214:Phường Quang Trung, Quận Đống Đa, Thành phố Hà Nội
+00217:Phường Trung Liệt, Quận Đống Đa, Thành phố Hà Nội
+00220:Phường Phương Liên, Quận Đống Đa, Thành phố Hà Nội
+00223:Phường Thịnh Quang, Quận Đống Đa, Thành phố Hà Nội
+00226:Phường Trung Tự, Quận Đống Đa, Thành phố Hà Nội
+00229:Phường Kim Liên, Quận Đống Đa, Thành phố Hà Nội
+00232:Phường Phương Mai, Quận Đống Đa, Thành phố Hà Nội
+00235:Phường Ngã Tư Sở, Quận Đống Đa, Thành phố Hà Nội
+00238:Phường Khương Thượng, Quận Đống Đa, Thành phố Hà Nội
+00241:Phường Nguyễn Du, Quận Hai Bà Trưng, Thành phố Hà Nội
+00244:Phường Bạch Đằng, Quận Hai Bà Trưng, Thành phố Hà Nội
+00247:Phường Phạm Đình Hổ, Quận Hai Bà Trưng, Thành phố Hà Nội
+00250:Phường Bùi Thị Xuân, Quận Hai Bà Trưng, Thành phố Hà Nội
+00253:Phường Ngô Thì Nhậm, Quận Hai Bà Trưng, Thành phố Hà Nội
+00256:Phường Lê Đại Hành, Quận Hai Bà Trưng, Thành phố Hà Nội
+00259:Phường Đồng Nhân, Quận Hai Bà Trưng, Thành phố Hà Nội
+00262:Phường Phố Huế, Quận Hai Bà Trưng, Thành phố Hà Nội
+00265:Phường Đống Mác, Quận Hai Bà Trưng, Thành phố Hà Nội
+00268:Phường Thanh Lương, Quận Hai Bà Trưng, Thành phố Hà Nội
+00271:Phường Thanh Nhàn, Quận Hai Bà Trưng, Thành phố Hà Nội
+00274:Phường Cầu Dền, Quận Hai Bà Trưng, Thành phố Hà Nội
+00277:Phường Bách Khoa, Quận Hai Bà Trưng, Thành phố Hà Nội
+00280:Phường Đồng Tâm, Quận Hai Bà Trưng, Thành phố Hà Nội
+00283:Phường Vĩnh Tuy, Quận Hai Bà Trưng, Thành phố Hà Nội
+00286:Phường Bạch Mai, Quận Hai Bà Trưng, Thành phố Hà Nội
+00289:Phường Quỳnh Mai, Quận Hai Bà Trưng, Thành phố Hà Nội
+00292:Phường Quỳnh Lôi, Quận Hai Bà Trưng, Thành phố Hà Nội
+00295:Phường Minh Khai, Quận Hai Bà Trưng, Thành phố Hà Nội
+00298:Phường Trương Định, Quận Hai Bà Trưng, Thành phố Hà Nội
+00301:Phường Thanh Trì, Quận Hoàng Mai, Thành phố Hà Nội
+00304:Phường Vĩnh Hưng, Quận Hoàng Mai, Thành phố Hà Nội
+00307:Phường Định Công, Quận Hoàng Mai, Thành phố Hà Nội
+00310:Phường Mai Động, Quận Hoàng Mai, Thành phố Hà Nội
+00313:Phường Tương Mai, Quận Hoàng Mai, Thành phố Hà Nội
+00316:Phường Đại Kim, Quận Hoàng Mai, Thành phố Hà Nội
+00319:Phường Tân Mai, Quận Hoàng Mai, Thành phố Hà Nội
+00322:Phường Hoàng Văn Thụ, Quận Hoàng Mai, Thành phố Hà Nội
+00325:Phường Giáp Bát, Quận Hoàng Mai, Thành phố Hà Nội
+00328:Phường Lĩnh Nam, Quận Hoàng Mai, Thành phố Hà Nội
+00331:Phường Thịnh Liệt, Quận Hoàng Mai, Thành phố Hà Nội
+00334:Phường Trần Phú, Quận Hoàng Mai, Thành phố Hà Nội
+00337:Phường Hoàng Liệt, Quận Hoàng Mai, Thành phố Hà Nội
+00340:Phường Yên Sở, Quận Hoàng Mai, Thành phố Hà Nội
+00343:Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội
+00346:Phường Thượng Đình, Quận Thanh Xuân, Thành phố Hà Nội
+00349:Phường Khương Trung, Quận Thanh Xuân, Thành phố Hà Nội
+00352:Phường Khương Mai, Quận Thanh Xuân, Thành phố Hà Nội
+00355:Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội
+00358:Phường Phương Liệt, Quận Thanh Xuân, Thành phố Hà Nội
+00361:Phường Hạ Đình, Quận Thanh Xuân, Thành phố Hà Nội
+00364:Phường Khương Đình, Quận Thanh Xuân, Thành phố Hà Nội
+00367:Phường Thanh Xuân Bắc, Quận Thanh Xuân, Thành phố Hà Nội
+00370:Phường Thanh Xuân Nam, Quận Thanh Xuân, Thành phố Hà Nội
+00373:Phường Kim Giang, Quận Thanh Xuân, Thành phố Hà Nội
+00376:Thị trấn Sóc Sơn, Huyện Sóc Sơn, Thành phố Hà Nội
+00379:Xã Bắc Sơn, Huyện Sóc Sơn, Thành phố Hà Nội
+00382:Xã Minh Trí, Huyện Sóc Sơn, Thành phố Hà Nội
+00385:Xã Hồng Kỳ, Huyện Sóc Sơn, Thành phố Hà Nội
+00388:Xã Nam Sơn, Huyện Sóc Sơn, Thành phố Hà Nội
+00391:Xã Trung Giã, Huyện Sóc Sơn, Thành phố Hà Nội
+00394:Xã Tân Hưng, Huyện Sóc Sơn, Thành phố Hà Nội
+00397:Xã Minh Phú, Huyện Sóc Sơn, Thành phố Hà Nội
+00400:Xã Phù Linh, Huyện Sóc Sơn, Thành phố Hà Nội
+00403:Xã Bắc Phú, Huyện Sóc Sơn, Thành phố Hà Nội
+00406:Xã Tân Minh, Huyện Sóc Sơn, Thành phố Hà Nội
+00409:Xã Quang Tiến, Huyện Sóc Sơn, Thành phố Hà Nội
+00412:Xã Hiền Ninh, Huyện Sóc Sơn, Thành phố Hà Nội
+00415:Xã Tân Dân, Huyện Sóc Sơn, Thành phố Hà Nội
+00418:Xã Tiên Dược, Huyện Sóc Sơn, Thành phố Hà Nội
+00421:Xã Việt Long, Huyện Sóc Sơn, Thành phố Hà Nội
+00424:Xã Xuân Giang, Huyện Sóc Sơn, Thành phố Hà Nội
+00427:Xã Mai Đình, Huyện Sóc Sơn, Thành phố Hà Nội
+00430:Xã Đức Hoà, Huyện Sóc Sơn, Thành phố Hà Nội
+00433:Xã Thanh Xuân, Huyện Sóc Sơn, Thành phố Hà Nội
+00436:Xã Đông Xuân, Huyện Sóc Sơn, Thành phố Hà Nội
+00439:Xã Kim Lũ, Huyện Sóc Sơn, Thành phố Hà Nội
+00442:Xã Phú Cường, Huyện Sóc Sơn, Thành phố Hà Nội
+00445:Xã Phú Minh, Huyện Sóc Sơn, Thành phố Hà Nội
+00448:Xã Phù Lỗ, Huyện Sóc Sơn, Thành phố Hà Nội
+00451:Xã Xuân Thu, Huyện Sóc Sơn, Thành phố Hà Nội
+00454:Thị trấn Đông Anh, Huyện Đông Anh, Thành phố Hà Nội
+00457:Xã Xuân Nộn, Huyện Đông Anh, Thành phố Hà Nội
+00460:Xã Thuỵ Lâm, Huyện Đông Anh, Thành phố Hà Nội
+00463:Xã Bắc Hồng, Huyện Đông Anh, Thành phố Hà Nội
+00466:Xã Nguyên Khê, Huyện Đông Anh, Thành phố Hà Nội
+00469:Xã Nam Hồng, Huyện Đông Anh, Thành phố Hà Nội
+00472:Xã Tiên Dương, Huyện Đông Anh, Thành phố Hà Nội
+00475:Xã Vân Hà, Huyện Đông Anh, Thành phố Hà Nội
+00478:Xã Uy Nỗ, Huyện Đông Anh, Thành phố Hà Nội
+00481:Xã Vân Nội, Huyện Đông Anh, Thành phố Hà Nội
+00484:Xã Liên Hà, Huyện Đông Anh, Thành phố Hà Nội
+00487:Xã Việt Hùng, Huyện Đông Anh, Thành phố Hà Nội
+00490:Xã Kim Nỗ, Huyện Đông Anh, Thành phố Hà Nội
+00493:Xã Kim Chung, Huyện Đông Anh, Thành phố Hà Nội
+00496:Xã Dục Tú, Huyện Đông Anh, Thành phố Hà Nội
+00499:Xã Đại Mạch, Huyện Đông Anh, Thành phố Hà Nội
+00502:Xã Vĩnh Ngọc, Huyện Đông Anh, Thành phố Hà Nội
+00505:Xã Cổ Loa, Huyện Đông Anh, Thành phố Hà Nội
+00508:Xã Hải Bối, Huyện Đông Anh, Thành phố Hà Nội
+00511:Xã Xuân Canh, Huyện Đông Anh, Thành phố Hà Nội
+00514:Xã Võng La, Huyện Đông Anh, Thành phố Hà Nội
+00517:Xã Tàm Xá, Huyện Đông Anh, Thành phố Hà Nội
+00520:Xã Mai Lâm, Huyện Đông Anh, Thành phố Hà Nội
+00523:Xã Đông Hội, Huyện Đông Anh, Thành phố Hà Nội
+00526:Thị trấn Yên Viên, Huyện Gia Lâm, Thành phố Hà Nội
+00529:Xã Yên Thường, Huyện Gia Lâm, Thành phố Hà Nội
+00532:Xã Yên Viên, Huyện Gia Lâm, Thành phố Hà Nội
+00535:Xã Ninh Hiệp, Huyện Gia Lâm, Thành phố Hà Nội
+00538:Xã Đình Xuyên, Huyện Gia Lâm, Thành phố Hà Nội
+00541:Xã Dương Hà, Huyện Gia Lâm, Thành phố Hà Nội
+00544:Xã Phù Đổng, Huyện Gia Lâm, Thành phố Hà Nội
+00547:Xã Trung Mầu, Huyện Gia Lâm, Thành phố Hà Nội
+00550:Xã Lệ Chi, Huyện Gia Lâm, Thành phố Hà Nội
+00553:Xã Cổ Bi, Huyện Gia Lâm, Thành phố Hà Nội
+00556:Xã Đặng Xá, Huyện Gia Lâm, Thành phố Hà Nội
+00559:Xã Phú Thị, Huyện Gia Lâm, Thành phố Hà Nội
+00562:Xã Kim Sơn, Huyện Gia Lâm, Thành phố Hà Nội
+00565:Thị trấn Trâu Quỳ, Huyện Gia Lâm, Thành phố Hà Nội
+00568:Xã Dương Quang, Huyện Gia Lâm, Thành phố Hà Nội
+00571:Xã Dương Xá, Huyện Gia Lâm, Thành phố Hà Nội
+00574:Xã Đông Dư, Huyện Gia Lâm, Thành phố Hà Nội
+00577:Xã Đa Tốn, Huyện Gia Lâm, Thành phố Hà Nội
+00580:Xã Kiêu Kỵ, Huyện Gia Lâm, Thành phố Hà Nội
+00583:Xã Bát Tràng, Huyện Gia Lâm, Thành phố Hà Nội
+00586:Xã Kim Lan, Huyện Gia Lâm, Thành phố Hà Nội
+00589:Xã Văn Đức, Huyện Gia Lâm, Thành phố Hà Nội
+00592:Phường Cầu Diễn, Quận Nam Từ Liêm, Thành phố Hà Nội
+00622:Phường Xuân Phương, Quận Nam Từ Liêm, Thành phố Hà Nội
+00623:Phường Phương Canh, Quận Nam Từ Liêm, Thành phố Hà Nội
+00625:Phường Mỹ Đình 1, Quận Nam Từ Liêm, Thành phố Hà Nội
+00626:Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội
+00628:Phường Tây Mỗ, Quận Nam Từ Liêm, Thành phố Hà Nội
+00631:Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội
+00632:Phường Phú Đô, Quận Nam Từ Liêm, Thành phố Hà Nội
+00634:Phường Đại Mỗ, Quận Nam Từ Liêm, Thành phố Hà Nội
+00637:Phường Trung Văn, Quận Nam Từ Liêm, Thành phố Hà Nội
+00640:Thị trấn Văn Điển, Huyện Thanh Trì, Thành phố Hà Nội
+00643:Xã Tân Triều, Huyện Thanh Trì, Thành phố Hà Nội
+00646:Xã Thanh Liệt, Huyện Thanh Trì, Thành phố Hà Nội
+00649:Xã Tả Thanh Oai, Huyện Thanh Trì, Thành phố Hà Nội
+00652:Xã Hữu Hoà, Huyện Thanh Trì, Thành phố Hà Nội
+00655:Xã Tam Hiệp, Huyện Thanh Trì, Thành phố Hà Nội
+00658:Xã Tứ Hiệp, Huyện Thanh Trì, Thành phố Hà Nội
+00661:Xã Yên Mỹ, Huyện Thanh Trì, Thành phố Hà Nội
+00664:Xã Vĩnh Quỳnh, Huyện Thanh Trì, Thành phố Hà Nội
+00667:Xã Ngũ Hiệp, Huyện Thanh Trì, Thành phố Hà Nội
+00670:Xã Duyên Hà, Huyện Thanh Trì, Thành phố Hà Nội
+00673:Xã Ngọc Hồi, Huyện Thanh Trì, Thành phố Hà Nội
+00676:Xã Vạn Phúc, Huyện Thanh Trì, Thành phố Hà Nội
+00679:Xã Đại áng, Huyện Thanh Trì, Thành phố Hà Nội
+00682:Xã Liên Ninh, Huyện Thanh Trì, Thành phố Hà Nội
+00685:Xã Đông Mỹ, Huyện Thanh Trì, Thành phố Hà Nội
+00595:Phường Thượng Cát, Quận Bắc Từ Liêm, Thành phố Hà Nội
+00598:Phường Liên Mạc, Quận Bắc Từ Liêm, Thành phố Hà Nội
+00601:Phường Đông Ngạc, Quận Bắc Từ Liêm, Thành phố Hà Nội
+00602:Phường Đức Thắng, Quận Bắc Từ Liêm, Thành phố Hà Nội
+00604:Phường Thụy Phương, Quận Bắc Từ Liêm, Thành phố Hà Nội
+00607:Phường Tây Tựu, Quận Bắc Từ Liêm, Thành phố Hà Nội
+00610:Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Thành phố Hà Nội
+00611:Phường Xuân Tảo, Quận Bắc Từ Liêm, Thành phố Hà Nội
+00613:Phường Minh Khai, Quận Bắc Từ Liêm, Thành phố Hà Nội
+00616:Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Thành phố Hà Nội
+00617:Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Thành phố Hà Nội
+00619:Phường Phú Diễn, Quận Bắc Từ Liêm, Thành phố Hà Nội
+00620:Phường Phúc Diễn, Quận Bắc Từ Liêm, Thành phố Hà Nội
+08973:Thị trấn Chi Đông, Huyện Mê Linh, Thành phố Hà Nội
+08974:Xã Đại Thịnh, Huyện Mê Linh, Thành phố Hà Nội
+08977:Xã Kim Hoa, Huyện Mê Linh, Thành phố Hà Nội
+08980:Xã Thạch Đà, Huyện Mê Linh, Thành phố Hà Nội
+08983:Xã Tiến Thắng, Huyện Mê Linh, Thành phố Hà Nội
+08986:Xã Tự Lập, Huyện Mê Linh, Thành phố Hà Nội
+08989:Thị trấn Quang Minh, Huyện Mê Linh, Thành phố Hà Nội
+08992:Xã Thanh Lâm, Huyện Mê Linh, Thành phố Hà Nội
+08995:Xã Tam Đồng, Huyện Mê Linh, Thành phố Hà Nội
+08998:Xã Liên Mạc, Huyện Mê Linh, Thành phố Hà Nội
+09001:Xã Vạn Yên, Huyện Mê Linh, Thành phố Hà Nội
+09004:Xã Chu Phan, Huyện Mê Linh, Thành phố Hà Nội
+09007:Xã Tiến Thịnh, Huyện Mê Linh, Thành phố Hà Nội
+09010:Xã Mê Linh, Huyện Mê Linh, Thành phố Hà Nội
+09013:Xã Văn Khê, Huyện Mê Linh, Thành phố Hà Nội
+09016:Xã Hoàng Kim, Huyện Mê Linh, Thành phố Hà Nội
+09019:Xã Tiền Phong, Huyện Mê Linh, Thành phố Hà Nội
+09022:Xã Tráng Việt, Huyện Mê Linh, Thành phố Hà Nội
+09538:Phường Nguyễn Trãi, Quận Hà Đông, Thành phố Hà Nội
+09541:Phường Mộ Lao, Quận Hà Đông, Thành phố Hà Nội
+09542:Phường Văn Quán, Quận Hà Đông, Thành phố Hà Nội
+09544:Phường Vạn Phúc, Quận Hà Đông, Thành phố Hà Nội
+09547:Phường Yết Kiêu, Quận Hà Đông, Thành phố Hà Nội
+09550:Phường Quang Trung, Quận Hà Đông, Thành phố Hà Nội
+09551:Phường La Khê, Quận Hà Đông, Thành phố Hà Nội
+09552:Phường Phú La, Quận Hà Đông, Thành phố Hà Nội
+09553:Phường Phúc La, Quận Hà Đông, Thành phố Hà Nội
+09556:Phường Hà Cầu, Quận Hà Đông, Thành phố Hà Nội
+09562:Phường Yên Nghĩa, Quận Hà Đông, Thành phố Hà Nội
+09565:Phường Kiến Hưng, Quận Hà Đông, Thành phố Hà Nội
+09568:Phường Phú Lãm, Quận Hà Đông, Thành phố Hà Nội
+09571:Phường Phú Lương, Quận Hà Đông, Thành phố Hà Nội
+09886:Phường Dương Nội, Quận Hà Đông, Thành phố Hà Nội
+10117:Phường Đồng Mai, Quận Hà Đông, Thành phố Hà Nội
+10123:Phường Biên Giang, Quận Hà Đông, Thành phố Hà Nội
+09574:Phường Lê Lợi, Thị xã Sơn Tây, Thành phố Hà Nội
+09577:Phường Phú Thịnh, Thị xã Sơn Tây, Thành phố Hà Nội
+09580:Phường Ngô Quyền, Thị xã Sơn Tây, Thành phố Hà Nội
+09583:Phường Quang Trung, Thị xã Sơn Tây, Thành phố Hà Nội
+09586:Phường Sơn Lộc, Thị xã Sơn Tây, Thành phố Hà Nội
+09589:Phường Xuân Khanh, Thị xã Sơn Tây, Thành phố Hà Nội
+09592:Xã Đường Lâm, Thị xã Sơn Tây, Thành phố Hà Nội
+09595:Phường Viên Sơn, Thị xã Sơn Tây, Thành phố Hà Nội
+09598:Xã Xuân Sơn, Thị xã Sơn Tây, Thành phố Hà Nội
+09601:Phường Trung Hưng, Thị xã Sơn Tây, Thành phố Hà Nội
+09604:Xã Thanh Mỹ, Thị xã Sơn Tây, Thành phố Hà Nội
+09607:Phường Trung Sơn Trầm, Thị xã Sơn Tây, Thành phố Hà Nội
+09610:Xã Kim Sơn, Thị xã Sơn Tây, Thành phố Hà Nội
+09613:Xã Sơn Đông, Thị xã Sơn Tây, Thành phố Hà Nội
+09616:Xã Cổ Đông, Thị xã Sơn Tây, Thành phố Hà Nội
+09619:Thị trấn Tây Đằng, Huyện Ba Vì, Thành phố Hà Nội
+09625:Xã Phú Cường, Huyện Ba Vì, Thành phố Hà Nội
+09628:Xã Cổ Đô, Huyện Ba Vì, Thành phố Hà Nội
+09631:Xã Tản Hồng, Huyện Ba Vì, Thành phố Hà Nội
+09634:Xã Vạn Thắng, Huyện Ba Vì, Thành phố Hà Nội
+09637:Xã Châu Sơn, Huyện Ba Vì, Thành phố Hà Nội
+09640:Xã Phong Vân, Huyện Ba Vì, Thành phố Hà Nội
+09643:Xã Phú Đông, Huyện Ba Vì, Thành phố Hà Nội
+09646:Xã Phú Phương, Huyện Ba Vì, Thành phố Hà Nội
+09649:Xã Phú Châu, Huyện Ba Vì, Thành phố Hà Nội
+09652:Xã Thái Hòa, Huyện Ba Vì, Thành phố Hà Nội
+09655:Xã Đồng Thái, Huyện Ba Vì, Thành phố Hà Nội
+09658:Xã Phú Sơn, Huyện Ba Vì, Thành phố Hà Nội
+09661:Xã Minh Châu, Huyện Ba Vì, Thành phố Hà Nội
+09664:Xã Vật Lại, Huyện Ba Vì, Thành phố Hà Nội
+09667:Xã Chu Minh, Huyện Ba Vì, Thành phố Hà Nội
+09670:Xã Tòng Bạt, Huyện Ba Vì, Thành phố Hà Nội
+09673:Xã Cẩm Lĩnh, Huyện Ba Vì, Thành phố Hà Nội
+09676:Xã Sơn Đà, Huyện Ba Vì, Thành phố Hà Nội
+09679:Xã Đông Quang, Huyện Ba Vì, Thành phố Hà Nội
+09682:Xã Tiên Phong, Huyện Ba Vì, Thành phố Hà Nội
+09685:Xã Thụy An, Huyện Ba Vì, Thành phố Hà Nội
+09688:Xã Cam Thượng, Huyện Ba Vì, Thành phố Hà Nội
+09691:Xã Thuần Mỹ, Huyện Ba Vì, Thành phố Hà Nội
+09694:Xã Tản Lĩnh, Huyện Ba Vì, Thành phố Hà Nội
+09697:Xã Ba Trại, Huyện Ba Vì, Thành phố Hà Nội
+09700:Xã Minh Quang, Huyện Ba Vì, Thành phố Hà Nội
+09703:Xã Ba Vì, Huyện Ba Vì, Thành phố Hà Nội
+09706:Xã Vân Hòa, Huyện Ba Vì, Thành phố Hà Nội
+09709:Xã Yên Bài, Huyện Ba Vì, Thành phố Hà Nội
+09712:Xã Khánh Thượng, Huyện Ba Vì, Thành phố Hà Nội
+09715:Thị trấn Phúc Thọ, Huyện Phúc Thọ, Thành phố Hà Nội
+09718:Xã Vân Hà, Huyện Phúc Thọ, Thành phố Hà Nội
+09721:Xã Vân Phúc, Huyện Phúc Thọ, Thành phố Hà Nội
+09724:Xã Vân Nam, Huyện Phúc Thọ, Thành phố Hà Nội
+09727:Xã Xuân Phú, Huyện Phúc Thọ, Thành phố Hà Nội
+09730:Xã Phương Độ, Huyện Phúc Thọ, Thành phố Hà Nội
+09733:Xã Sen Chiểu, Huyện Phúc Thọ, Thành phố Hà Nội
+09736:Xã Cẩm Đình, Huyện Phúc Thọ, Thành phố Hà Nội
+09739:Xã Võng Xuyên, Huyện Phúc Thọ, Thành phố Hà Nội
+09742:Xã Thọ Lộc, Huyện Phúc Thọ, Thành phố Hà Nội
+09745:Xã Long Xuyên, Huyện Phúc Thọ, Thành phố Hà Nội
+09748:Xã Thượng Cốc, Huyện Phúc Thọ, Thành phố Hà Nội
+09751:Xã Hát Môn, Huyện Phúc Thọ, Thành phố Hà Nội
+09754:Xã Tích Giang, Huyện Phúc Thọ, Thành phố Hà Nội
+09757:Xã Thanh Đa, Huyện Phúc Thọ, Thành phố Hà Nội
+09760:Xã Trạch Mỹ Lộc, Huyện Phúc Thọ, Thành phố Hà Nội
+09763:Xã Phúc Hòa, Huyện Phúc Thọ, Thành phố Hà Nội
+09766:Xã Ngọc Tảo, Huyện Phúc Thọ, Thành phố Hà Nội
+09769:Xã Phụng Thượng, Huyện Phúc Thọ, Thành phố Hà Nội
+09772:Xã Tam Thuấn, Huyện Phúc Thọ, Thành phố Hà Nội
+09775:Xã Tam Hiệp, Huyện Phúc Thọ, Thành phố Hà Nội
+09778:Xã Hiệp Thuận, Huyện Phúc Thọ, Thành phố Hà Nội
+09781:Xã Liên Hiệp, Huyện Phúc Thọ, Thành phố Hà Nội
+09784:Thị trấn Phùng, Huyện Đan Phượng, Thành phố Hà Nội
+09787:Xã Trung Châu, Huyện Đan Phượng, Thành phố Hà Nội
+09790:Xã Thọ An, Huyện Đan Phượng, Thành phố Hà Nội
+09793:Xã Thọ Xuân, Huyện Đan Phượng, Thành phố Hà Nội
+09796:Xã Hồng Hà, Huyện Đan Phượng, Thành phố Hà Nội
+09799:Xã Liên Hồng, Huyện Đan Phượng, Thành phố Hà Nội
+09802:Xã Liên Hà, Huyện Đan Phượng, Thành phố Hà Nội
+09805:Xã Hạ Mỗ, Huyện Đan Phượng, Thành phố Hà Nội
+09808:Xã Liên Trung, Huyện Đan Phượng, Thành phố Hà Nội
+09811:Xã Phương Đình, Huyện Đan Phượng, Thành phố Hà Nội
+09814:Xã Thượng Mỗ, Huyện Đan Phượng, Thành phố Hà Nội
+09817:Xã Tân Hội, Huyện Đan Phượng, Thành phố Hà Nội
+09820:Xã Tân Lập, Huyện Đan Phượng, Thành phố Hà Nội
+09823:Xã Đan Phượng, Huyện Đan Phượng, Thành phố Hà Nội
+09826:Xã Đồng Tháp, Huyện Đan Phượng, Thành phố Hà Nội
+09829:Xã Song Phượng, Huyện Đan Phượng, Thành phố Hà Nội
+09832:Thị trấn Trạm Trôi, Huyện Hoài Đức, Thành phố Hà Nội
+09835:Xã Đức Thượng, Huyện Hoài Đức, Thành phố Hà Nội
+09838:Xã Minh Khai, Huyện Hoài Đức, Thành phố Hà Nội
+09841:Xã Dương Liễu, Huyện Hoài Đức, Thành phố Hà Nội
+09844:Xã Di Trạch, Huyện Hoài Đức, Thành phố Hà Nội
+09847:Xã Đức Giang, Huyện Hoài Đức, Thành phố Hà Nội
+09850:Xã Cát Quế, Huyện Hoài Đức, Thành phố Hà Nội
+09853:Xã Kim Chung, Huyện Hoài Đức, Thành phố Hà Nội
+09856:Xã Yên Sở, Huyện Hoài Đức, Thành phố Hà Nội
+09859:Xã Sơn Đồng, Huyện Hoài Đức, Thành phố Hà Nội
+09862:Xã Vân Canh, Huyện Hoài Đức, Thành phố Hà Nội
+09865:Xã Đắc Sở, Huyện Hoài Đức, Thành phố Hà Nội
+09868:Xã Lại Yên, Huyện Hoài Đức, Thành phố Hà Nội
+09871:Xã Tiền Yên, Huyện Hoài Đức, Thành phố Hà Nội
+09874:Xã Song Phương, Huyện Hoài Đức, Thành phố Hà Nội
+09877:Xã An Khánh, Huyện Hoài Đức, Thành phố Hà Nội
+09880:Xã An Thượng, Huyện Hoài Đức, Thành phố Hà Nội
+09883:Xã Vân Côn, Huyện Hoài Đức, Thành phố Hà Nội
+09889:Xã La Phù, Huyện Hoài Đức, Thành phố Hà Nội
+09892:Xã Đông La, Huyện Hoài Đức, Thành phố Hà Nội
+04939:Xã Đông Xuân, Huyện Quốc Oai, Thành phố Hà Nội
+09895:Thị trấn Quốc Oai, Huyện Quốc Oai, Thành phố Hà Nội
+09898:Xã Sài Sơn, Huyện Quốc Oai, Thành phố Hà Nội
+09901:Xã Phượng Cách, Huyện Quốc Oai, Thành phố Hà Nội
+09904:Xã Yên Sơn, Huyện Quốc Oai, Thành phố Hà Nội
+09907:Xã Ngọc Liệp, Huyện Quốc Oai, Thành phố Hà Nội
+09910:Xã Ngọc Mỹ, Huyện Quốc Oai, Thành phố Hà Nội
+09913:Xã Liệp Tuyết, Huyện Quốc Oai, Thành phố Hà Nội
+09916:Xã Thạch Thán, Huyện Quốc Oai, Thành phố Hà Nội
+09919:Xã Đồng Quang, Huyện Quốc Oai, Thành phố Hà Nội
+09922:Xã Phú Cát, Huyện Quốc Oai, Thành phố Hà Nội
+09925:Xã Tuyết Nghĩa, Huyện Quốc Oai, Thành phố Hà Nội
+09928:Xã Nghĩa Hương, Huyện Quốc Oai, Thành phố Hà Nội
+09931:Xã Cộng Hòa, Huyện Quốc Oai, Thành phố Hà Nội
+09934:Xã Tân Phú, Huyện Quốc Oai, Thành phố Hà Nội
+09937:Xã Đại Thành, Huyện Quốc Oai, Thành phố Hà Nội
+09940:Xã Phú Mãn, Huyện Quốc Oai, Thành phố Hà Nội
+09943:Xã Cấn Hữu, Huyện Quốc Oai, Thành phố Hà Nội
+09946:Xã Tân Hòa, Huyện Quốc Oai, Thành phố Hà Nội
+09949:Xã Hòa Thạch, Huyện Quốc Oai, Thành phố Hà Nội
+09952:Xã Đông Yên, Huyện Quốc Oai, Thành phố Hà Nội
+04927:Xã Yên Trung, Huyện Thạch Thất, Thành phố Hà Nội
+04930:Xã Yên Bình, Huyện Thạch Thất, Thành phố Hà Nội
+04936:Xã Tiến Xuân, Huyện Thạch Thất, Thành phố Hà Nội
+09955:Thị trấn Liên Quan, Huyện Thạch Thất, Thành phố Hà Nội
+09958:Xã Đại Đồng, Huyện Thạch Thất, Thành phố Hà Nội
+09961:Xã Cẩm Yên, Huyện Thạch Thất, Thành phố Hà Nội
+09964:Xã Lại Thượng, Huyện Thạch Thất, Thành phố Hà Nội
+09967:Xã Phú Kim, Huyện Thạch Thất, Thành phố Hà Nội
+09970:Xã Hương Ngải, Huyện Thạch Thất, Thành phố Hà Nội
+09973:Xã Canh Nậu, Huyện Thạch Thất, Thành phố Hà Nội
+09976:Xã Kim Quan, Huyện Thạch Thất, Thành phố Hà Nội
+09979:Xã Dị Nậu, Huyện Thạch Thất, Thành phố Hà Nội
+09982:Xã Bình Yên, Huyện Thạch Thất, Thành phố Hà Nội
+09985:Xã Chàng Sơn, Huyện Thạch Thất, Thành phố Hà Nội
+09988:Xã Thạch Hoà, Huyện Thạch Thất, Thành phố Hà Nội
+09991:Xã Cần Kiệm, Huyện Thạch Thất, Thành phố Hà Nội
+09994:Xã Hữu Bằng, Huyện Thạch Thất, Thành phố Hà Nội
+09997:Xã Phùng Xá, Huyện Thạch Thất, Thành phố Hà Nội
+10000:Xã Tân Xã, Huyện Thạch Thất, Thành phố Hà Nội
+10003:Xã Thạch Xá, Huyện Thạch Thất, Thành phố Hà Nội
+10006:Xã Bình Phú, Huyện Thạch Thất, Thành phố Hà Nội
+10009:Xã Hạ Bằng, Huyện Thạch Thất, Thành phố Hà Nội
+10012:Xã Đồng Trúc, Huyện Thạch Thất, Thành phố Hà Nội
+10015:Thị trấn Chúc Sơn, Huyện Chương Mỹ, Thành phố Hà Nội
+10018:Thị trấn Xuân Mai, Huyện Chương Mỹ, Thành phố Hà Nội
+10021:Xã Phụng Châu, Huyện Chương Mỹ, Thành phố Hà Nội
+10024:Xã Tiên Phương, Huyện Chương Mỹ, Thành phố Hà Nội
+10027:Xã Đông Sơn, Huyện Chương Mỹ, Thành phố Hà Nội
+10030:Xã Đông Phương Yên, Huyện Chương Mỹ, Thành phố Hà Nội
+10033:Xã Phú Nghĩa, Huyện Chương Mỹ, Thành phố Hà Nội
+10039:Xã Trường Yên, Huyện Chương Mỹ, Thành phố Hà Nội
+10042:Xã Ngọc Hòa, Huyện Chương Mỹ, Thành phố Hà Nội
+10045:Xã Thủy Xuân Tiên, Huyện Chương Mỹ, Thành phố Hà Nội
+10048:Xã Thanh Bình, Huyện Chương Mỹ, Thành phố Hà Nội
+10051:Xã Trung Hòa, Huyện Chương Mỹ, Thành phố Hà Nội
+10054:Xã Đại Yên, Huyện Chương Mỹ, Thành phố Hà Nội
+10057:Xã Thụy Hương, Huyện Chương Mỹ, Thành phố Hà Nội
+10060:Xã Tốt Động, Huyện Chương Mỹ, Thành phố Hà Nội
+10063:Xã Lam Điền, Huyện Chương Mỹ, Thành phố Hà Nội
+10066:Xã Tân Tiến, Huyện Chương Mỹ, Thành phố Hà Nội
+10069:Xã Nam Phương Tiến, Huyện Chương Mỹ, Thành phố Hà Nội
+10072:Xã Hợp Đồng, Huyện Chương Mỹ, Thành phố Hà Nội
+10075:Xã Hoàng Văn Thụ, Huyện Chương Mỹ, Thành phố Hà Nội
+10078:Xã Hoàng Diệu, Huyện Chương Mỹ, Thành phố Hà Nội
+10081:Xã Hữu Văn, Huyện Chương Mỹ, Thành phố Hà Nội
+10084:Xã Quảng Bị, Huyện Chương Mỹ, Thành phố Hà Nội
+10087:Xã Mỹ Lương, Huyện Chương Mỹ, Thành phố Hà Nội
+10090:Xã Thượng Vực, Huyện Chương Mỹ, Thành phố Hà Nội
+10093:Xã Hồng Phong, Huyện Chương Mỹ, Thành phố Hà Nội
+10096:Xã Đồng Phú, Huyện Chương Mỹ, Thành phố Hà Nội
+10099:Xã Trần Phú, Huyện Chương Mỹ, Thành phố Hà Nội
+10102:Xã Văn Võ, Huyện Chương Mỹ, Thành phố Hà Nội
+10105:Xã Đồng Lạc, Huyện Chương Mỹ, Thành phố Hà Nội
+10108:Xã Hòa Chính, Huyện Chương Mỹ, Thành phố Hà Nội
+10111:Xã Phú Nam An, Huyện Chương Mỹ, Thành phố Hà Nội
+10114:Thị trấn Kim Bài, Huyện Thanh Oai, Thành phố Hà Nội
+10120:Xã Cự Khê, Huyện Thanh Oai, Thành phố Hà Nội
+10126:Xã Bích Hòa, Huyện Thanh Oai, Thành phố Hà Nội
+10129:Xã Mỹ Hưng, Huyện Thanh Oai, Thành phố Hà Nội
+10132:Xã Cao Viên, Huyện Thanh Oai, Thành phố Hà Nội
+10135:Xã Bình Minh, Huyện Thanh Oai, Thành phố Hà Nội
+10138:Xã Tam Hưng, Huyện Thanh Oai, Thành phố Hà Nội
+10141:Xã Thanh Cao, Huyện Thanh Oai, Thành phố Hà Nội
+10144:Xã Thanh Thùy, Huyện Thanh Oai, Thành phố Hà Nội
+10147:Xã Thanh Mai, Huyện Thanh Oai, Thành phố Hà Nội
+10150:Xã Thanh Văn, Huyện Thanh Oai, Thành phố Hà Nội
+10153:Xã Đỗ Động, Huyện Thanh Oai, Thành phố Hà Nội
+10156:Xã Kim An, Huyện Thanh Oai, Thành phố Hà Nội
+10159:Xã Kim Thư, Huyện Thanh Oai, Thành phố Hà Nội
+10162:Xã Phương Trung, Huyện Thanh Oai, Thành phố Hà Nội
+10165:Xã Tân Ước, Huyện Thanh Oai, Thành phố Hà Nội
+10168:Xã Dân Hòa, Huyện Thanh Oai, Thành phố Hà Nội
+10171:Xã Liên Châu, Huyện Thanh Oai, Thành phố Hà Nội
+10174:Xã Cao Dương, Huyện Thanh Oai, Thành phố Hà Nội
+10177:Xã Xuân Dương, Huyện Thanh Oai, Thành phố Hà Nội
+10180:Xã Hồng Dương, Huyện Thanh Oai, Thành phố Hà Nội
+10183:Thị trấn Thường Tín, Huyện Thường Tín, Thành phố Hà Nội
+10186:Xã Ninh Sở, Huyện Thường Tín, Thành phố Hà Nội
+10189:Xã Nhị Khê, Huyện Thường Tín, Thành phố Hà Nội
+10192:Xã Duyên Thái, Huyện Thường Tín, Thành phố Hà Nội
+10195:Xã Khánh Hà, Huyện Thường Tín, Thành phố Hà Nội
+10198:Xã Hòa Bình, Huyện Thường Tín, Thành phố Hà Nội
+10201:Xã Văn Bình, Huyện Thường Tín, Thành phố Hà Nội
+10204:Xã Hiền Giang, Huyện Thường Tín, Thành phố Hà Nội
+10207:Xã Hồng Vân, Huyện Thường Tín, Thành phố Hà Nội
+10210:Xã Vân Tảo, Huyện Thường Tín, Thành phố Hà Nội
+10213:Xã Liên Phương, Huyện Thường Tín, Thành phố Hà Nội
+10216:Xã Văn Phú, Huyện Thường Tín, Thành phố Hà Nội
+10219:Xã Tự Nhiên, Huyện Thường Tín, Thành phố Hà Nội
+10222:Xã Tiền Phong, Huyện Thường Tín, Thành phố Hà Nội
+10225:Xã Hà Hồi, Huyện Thường Tín, Thành phố Hà Nội
+10228:Xã Thư Phú, Huyện Thường Tín, Thành phố Hà Nội
+10231:Xã Nguyễn Trãi, Huyện Thường Tín, Thành phố Hà Nội
+10234:Xã Quất Động, Huyện Thường Tín, Thành phố Hà Nội
+10237:Xã Chương Dương, Huyện Thường Tín, Thành phố Hà Nội
+10240:Xã Tân Minh, Huyện Thường Tín, Thành phố Hà Nội
+10243:Xã Lê Lợi, Huyện Thường Tín, Thành phố Hà Nội
+10246:Xã Thắng Lợi, Huyện Thường Tín, Thành phố Hà Nội
+10249:Xã Dũng Tiến, Huyện Thường Tín, Thành phố Hà Nội
+10252:Xã Thống Nhất, Huyện Thường Tín, Thành phố Hà Nội
+10255:Xã Nghiêm Xuyên, Huyện Thường Tín, Thành phố Hà Nội
+10258:Xã Tô Hiệu, Huyện Thường Tín, Thành phố Hà Nội
+10261:Xã Văn Tự, Huyện Thường Tín, Thành phố Hà Nội
+10264:Xã Vạn Điểm, Huyện Thường Tín, Thành phố Hà Nội
+10267:Xã Minh Cường, Huyện Thường Tín, Thành phố Hà Nội
+10270:Thị trấn Phú Minh, Huyện Phú Xuyên, Thành phố Hà Nội
+10273:Thị trấn Phú Xuyên, Huyện Phú Xuyên, Thành phố Hà Nội
+10276:Xã Hồng Minh, Huyện Phú Xuyên, Thành phố Hà Nội
+10279:Xã Phượng Dực, Huyện Phú Xuyên, Thành phố Hà Nội
+10282:Xã Văn Nhân, Huyện Phú Xuyên, Thành phố Hà Nội
+10285:Xã Thụy Phú, Huyện Phú Xuyên, Thành phố Hà Nội
+10288:Xã Tri Trung, Huyện Phú Xuyên, Thành phố Hà Nội
+10291:Xã Đại Thắng, Huyện Phú Xuyên, Thành phố Hà Nội
+10294:Xã Phú Túc, Huyện Phú Xuyên, Thành phố Hà Nội
+10297:Xã Văn Hoàng, Huyện Phú Xuyên, Thành phố Hà Nội
+10300:Xã Hồng Thái, Huyện Phú Xuyên, Thành phố Hà Nội
+10303:Xã Hoàng Long, Huyện Phú Xuyên, Thành phố Hà Nội
+10306:Xã Quang Trung, Huyện Phú Xuyên, Thành phố Hà Nội
+10309:Xã Nam Phong, Huyện Phú Xuyên, Thành phố Hà Nội
+10312:Xã Nam Triều, Huyện Phú Xuyên, Thành phố Hà Nội
+10315:Xã Tân Dân, Huyện Phú Xuyên, Thành phố Hà Nội
+10318:Xã Sơn Hà, Huyện Phú Xuyên, Thành phố Hà Nội
+10321:Xã Chuyên Mỹ, Huyện Phú Xuyên, Thành phố Hà Nội
+10324:Xã Khai Thái, Huyện Phú Xuyên, Thành phố Hà Nội
+10327:Xã Phúc Tiến, Huyện Phú Xuyên, Thành phố Hà Nội
+10330:Xã Vân Từ, Huyện Phú Xuyên, Thành phố Hà Nội
+10333:Xã Tri Thủy, Huyện Phú Xuyên, Thành phố Hà Nội
+10336:Xã Đại Xuyên, Huyện Phú Xuyên, Thành phố Hà Nội
+10339:Xã Phú Yên, Huyện Phú Xuyên, Thành phố Hà Nội
+10342:Xã Bạch Hạ, Huyện Phú Xuyên, Thành phố Hà Nội
+10345:Xã Quang Lãng, Huyện Phú Xuyên, Thành phố Hà Nội
+10348:Xã Châu Can, Huyện Phú Xuyên, Thành phố Hà Nội
+10351:Xã Minh Tân, Huyện Phú Xuyên, Thành phố Hà Nội
+10354:Thị trấn Vân Đình, Huyện Ứng Hòa, Thành phố Hà Nội
+10357:Xã Viên An, Huyện Ứng Hòa, Thành phố Hà Nội
+10360:Xã Viên Nội, Huyện Ứng Hòa, Thành phố Hà Nội
+10363:Xã Hoa Sơn, Huyện Ứng Hòa, Thành phố Hà Nội
+10366:Xã Quảng Phú Cầu, Huyện Ứng Hòa, Thành phố Hà Nội
+10369:Xã Trường Thịnh, Huyện Ứng Hòa, Thành phố Hà Nội
+10372:Xã Cao Thành, Huyện Ứng Hòa, Thành phố Hà Nội
+10375:Xã Liên Bạt, Huyện Ứng Hòa, Thành phố Hà Nội
+10378:Xã Sơn Công, Huyện Ứng Hòa, Thành phố Hà Nội
+10381:Xã Đồng Tiến, Huyện Ứng Hòa, Thành phố Hà Nội
+10384:Xã Phương Tú, Huyện Ứng Hòa, Thành phố Hà Nội
+10387:Xã Trung Tú, Huyện Ứng Hòa, Thành phố Hà Nội
+10390:Xã Đồng Tân, Huyện Ứng Hòa, Thành phố Hà Nội
+10393:Xã Tảo Dương Văn, Huyện Ứng Hòa, Thành phố Hà Nội
+10396:Xã Vạn Thái, Huyện Ứng Hòa, Thành phố Hà Nội
+10399:Xã Minh Đức, Huyện Ứng Hòa, Thành phố Hà Nội
+10402:Xã Hòa Lâm, Huyện Ứng Hòa, Thành phố Hà Nội
+10405:Xã Hòa Xá, Huyện Ứng Hòa, Thành phố Hà Nội
+10408:Xã Trầm Lộng, Huyện Ứng Hòa, Thành phố Hà Nội
+10411:Xã Kim Đường, Huyện Ứng Hòa, Thành phố Hà Nội
+10414:Xã Hòa Nam, Huyện Ứng Hòa, Thành phố Hà Nội
+10417:Xã Hòa Phú, Huyện Ứng Hòa, Thành phố Hà Nội
+10420:Xã Đội Bình, Huyện Ứng Hòa, Thành phố Hà Nội
+10423:Xã Đại Hùng, Huyện Ứng Hòa, Thành phố Hà Nội
+10426:Xã Đông Lỗ, Huyện Ứng Hòa, Thành phố Hà Nội
+10429:Xã Phù Lưu, Huyện Ứng Hòa, Thành phố Hà Nội
+10432:Xã Đại Cường, Huyện Ứng Hòa, Thành phố Hà Nội
+10435:Xã Lưu Hoàng, Huyện Ứng Hòa, Thành phố Hà Nội
+10438:Xã Hồng Quang, Huyện Ứng Hòa, Thành phố Hà Nội
+10441:Thị trấn Đại Nghĩa, Huyện Mỹ Đức, Thành phố Hà Nội
+10444:Xã Đồng Tâm, Huyện Mỹ Đức, Thành phố Hà Nội
+10447:Xã Thượng Lâm, Huyện Mỹ Đức, Thành phố Hà Nội
+10450:Xã Tuy Lai, Huyện Mỹ Đức, Thành phố Hà Nội
+10453:Xã Phúc Lâm, Huyện Mỹ Đức, Thành phố Hà Nội
+10456:Xã Mỹ Thành, Huyện Mỹ Đức, Thành phố Hà Nội
+10459:Xã Bột Xuyên, Huyện Mỹ Đức, Thành phố Hà Nội
+10462:Xã An Mỹ, Huyện Mỹ Đức, Thành phố Hà Nội
+10465:Xã Hồng Sơn, Huyện Mỹ Đức, Thành phố Hà Nội
+10468:Xã Lê Thanh, Huyện Mỹ Đức, Thành phố Hà Nội
+10471:Xã Xuy Xá, Huyện Mỹ Đức, Thành phố Hà Nội
+10474:Xã Phùng Xá, Huyện Mỹ Đức, Thành phố Hà Nội
+10477:Xã Phù Lưu Tế, Huyện Mỹ Đức, Thành phố Hà Nội
+10480:Xã Đại Hưng, Huyện Mỹ Đức, Thành phố Hà Nội
+10483:Xã Vạn Kim, Huyện Mỹ Đức, Thành phố Hà Nội
+10486:Xã Đốc Tín, Huyện Mỹ Đức, Thành phố Hà Nội
+10489:Xã Hương Sơn, Huyện Mỹ Đức, Thành phố Hà Nội
+10492:Xã Hùng Tiến, Huyện Mỹ Đức, Thành phố Hà Nội
+10495:Xã An Tiến, Huyện Mỹ Đức, Thành phố Hà Nội
+10498:Xã Hợp Tiến, Huyện Mỹ Đức, Thành phố Hà Nội
+10501:Xã Hợp Thanh, Huyện Mỹ Đức, Thành phố Hà Nội
+10504:Xã An Phú, Huyện Mỹ Đức, Thành phố Hà Nội
